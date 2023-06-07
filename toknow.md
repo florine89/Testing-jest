@@ -1,0 +1,2 @@
+- écrire dans package json a script test : "jest"
+- Pour savoir quelle fonction est passed ou failed on peut tout simplement écrire dans notre package.json : "jest --coverage"
